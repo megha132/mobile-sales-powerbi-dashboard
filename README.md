@@ -4,9 +4,9 @@ An interactive Power BI dashboard analysing mobile sales performance, built to
 strengthen skills in data modeling, DAX, and business intelligence reporting.
 
 ## Dashboard Preview
-![Dashboard Overview](screenshots/Dashboard.png)
-![Monthly Sales Trend](screenshots/MTD Report.png)
-![Same Period Last Year](screenshots/Same Period Last Year.png)
+![Dashboard Overview](screenshots/dashboard-overview.png)
+![Monthly Sales Trend](screenshots/mtd-report.png)
+![Same Period Last Year](screenshots/same-period-last-year.png)
 
 ## Key Insights
 - **Total Sales:** 769M+
@@ -29,10 +29,9 @@ strengthen skills in data modeling, DAX, and business intelligence reporting.
 - Created a custom calendar table and built data model relationships
 - Wrote DAX measures including MTD, QTD, YTD, and same-period-last-year comparisons
 - Designed interactive visuals with cross-filtering (edit interactions)
-- Published the report to Power BI Service
 
 ## Tools Used
 Power BI Desktop, DAX, Power Query, Power BI Service
 
 ## Files
-- `mobile-sales-dashboard.pbix` — the Power BI project file
+- `Mobile-Sales-Dashboard.pbix` — the Power BI project file
