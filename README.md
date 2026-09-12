@@ -31,7 +31,7 @@ strengthen skills in data modeling, DAX, and business intelligence reporting.
 - Designed interactive visuals with cross-filtering (edit interactions)
 
 ## Tools Used
-Power BI Desktop, DAX, Power Query, Power BI Service
+Power BI Desktop, DAX, Power Query
 
 ## Files
 - `Mobile-Sales-Dashboard.pbix` — the Power BI project file
